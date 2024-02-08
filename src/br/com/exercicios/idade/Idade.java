@@ -1,3 +1,5 @@
+package br.com.exercicios.idade;
+
 public class Idade {
     private int idade;
 

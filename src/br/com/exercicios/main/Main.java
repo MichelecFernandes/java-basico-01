@@ -1,3 +1,7 @@
+package br.com.exercicios.main;
+
+import br.com.exercicios.idade.Idade;
+
 public class Main {
     public static void main(String[] args) {
         Idade idadeDeclarada = new Idade(15);
